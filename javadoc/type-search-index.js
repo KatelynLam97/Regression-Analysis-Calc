@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"regressionAnalysisCalc","l":"AnalysisLibrary"},{"p":"regressionAnalysisCalc","l":"FileManager"},{"p":"regressionAnalysisCalc","l":"GraphingTool"}]
