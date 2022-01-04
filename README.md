@@ -4,8 +4,8 @@ When the program is executed, the user opens a correctly formatted text file wit
 (Let x represent the independent variable value, let y represent the dependent variable value)
 
 xName@yName@xUnit@yUnit
-x1 y1
-x2 y2
+x1 y1<br />
+x2 y2<br />
 x3 y3
 .. ..
 
