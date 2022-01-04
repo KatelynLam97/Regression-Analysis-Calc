@@ -3,7 +3,7 @@ A graphing calculator created using Java Swing that performs a regression analys
 When the program is executed, the user opens a correctly formatted text file with the following format to load the data:
 (Let x represent the independent variable value, let y represent the dependent variable value)
 
-xName@yName@xUnit@yUnit
+xName@yName@xUnit@yUnit<br />
 x1 y1<br />
 x2 y2<br />
 x3 y3
@@ -24,4 +24,4 @@ After the analysis is performed, by pressing on one of the icons on the bottom o
 - a set of instructions for how to use the program (the question mark, help) is clicked
 
 Download the javadoc folder and see index.html for the documentation. A tutorial for the program can be seen by downloading RegressionAnalysisTool.webm
-Sample1.txt, Sample2.txt, Sample3.txt, Sample4.txt, and Sample5.txt are all correctly-formatted data files that can be used in the program. Sample 2_Power is an example of a saved image file with a regression performed on it.
+Sample1.txt, Sample2.txt, Sample3.txt, Sample4.txt, and Sample5.txt are all correctly-formatted data files that can be used in the program. Extract all Sample files to the same path as GraphingTool.java, which is where the main UI is executed. Sample 2_Power is an example of a saved image file with a regression performed on it.
